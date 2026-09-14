@@ -1,0 +1,90 @@
+{
+    "total_skus": 200,
+    "total_sales_at_risk_inr": 1715379.02,
+    "total_capital_locked_inr": 374964818.05,
+    "quadrant_distribution": {
+        "Markdown / clear": 172,
+        "Healthy": 27,
+        "Reorder now": 1
+    },
+    "top_reorder_skus": [
+        {
+            "sku_id": "NB-FUR-027",
+            "category": "Furnishings",
+            "sales_at_risk_inr": 1715379.02,
+            "recommended_reorder_units": 172
+        }
+    ],
+    "top_markdown_skus": [
+        {
+            "sku_id": "NB-FUR-028",
+            "category": "Furnishings",
+            "capital_locked_inr": 22743607.81,
+            "excess_units": 1463.0,
+            "weeks_of_supply": 39.5
+        },
+        {
+            "sku_id": "NB-FUR-014",
+            "category": "Furnishings",
+            "capital_locked_inr": 15219117.5,
+            "excess_units": 1233.1,
+            "weeks_of_supply": 52.1
+        },
+        {
+            "sku_id": "NB-FUR-023",
+            "category": "Furnishings",
+            "capital_locked_inr": 15166640.68,
+            "excess_units": 1291.4,
+            "weeks_of_supply": 60.8
+        },
+        {
+            "sku_id": "NB-FUR-010",
+            "category": "Furnishings",
+            "capital_locked_inr": 14435993.66,
+            "excess_units": 1260.9,
+            "weeks_of_supply": 54.5
+        },
+        {
+            "sku_id": "NB-FUR-011",
+            "category": "Furnishings",
+            "capital_locked_inr": 11959835.89,
+            "excess_units": 673.0,
+            "weeks_of_supply": 24.8
+        },
+        {
+            "sku_id": "NB-FUR-022",
+            "category": "Furnishings",
+            "capital_locked_inr": 11135757.17,
+            "excess_units": 702.7,
+            "weeks_of_supply": 27.3
+        },
+        {
+            "sku_id": "NB-FUR-032",
+            "category": "Furnishings",
+            "capital_locked_inr": 9577673.53,
+            "excess_units": 691.8,
+            "weeks_of_supply": 31.9
+        },
+        {
+            "sku_id": "NB-FUR-041",
+            "category": "Furnishings",
+            "capital_locked_inr": 9530040.0,
+            "excess_units": 650.0,
+            "weeks_of_supply": 31.4
+        },
+        {
+            "sku_id": "NB-FUR-021",
+            "category": "Furnishings",
+            "capital_locked_inr": 9336650.14,
+            "excess_units": 519.9,
+            "weeks_of_supply": 25.5
+        },
+        {
+            "sku_id": "NB-FUR-017",
+            "category": "Furnishings",
+            "capital_locked_inr": 9040617.85,
+            "excess_units": 1037.0,
+            "weeks_of_supply": 50.5
+        }
+    ]
+}

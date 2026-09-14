@@ -1,0 +1,37 @@
+{
+    "raw_counts": {
+        "sales_daily": 150801,
+        "sku_master": 200,
+        "calendar": 821,
+        "inventory_snapshots": 200
+    },
+    "sku_cleaning": {
+        "initial_rows": 200,
+        "missing_cost_imputed": 3,
+        "unique_categories": 4,
+        "categories": [
+            "Furnishings",
+            "D\u00e9cor",
+            "Small Appliances",
+            "Kitchenware"
+        ]
+    },
+    "sales_cleaning": {
+        "initial_rows": 150801,
+        "duplicates_dropped": 447,
+        "negative_return_records": 40,
+        "missing_promo_imputed": 754
+    },
+    "inventory_cleaning": {
+        "total_records": 200,
+        "unique_skus": 200,
+        "avg_lead_time_days": 27.125
+    },
+    "weekly_aggregation": {
+        "total_sku_weeks": 23600,
+        "num_weeks": 118,
+        "num_skus": 200,
+        "min_week": "2024-01-01 00:00:00",
+        "max_week": "2026-03-30 00:00:00"
+    }
+}

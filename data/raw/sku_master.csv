@@ -1,0 +1,201 @@
+sku_id,category,subcategory,launch_date,unit_cost,list_price
+NB-FUR-001,Furnishings,Seating,2024-11-12,2887.67,5255.63
+NB-FUR-002,Furnishings,Seating,2025-01-21,12988.84,30052.85
+NB-FUR-003,Furnishings,Seating,2024-06-21,2961.86,5257.04
+NB-FUR-004,Furnishings,Bedding,2024-05-31,5581.98,11833.28
+NB-FUR-005,Furnishings,Rugs,2025-03-03,11633.62,26147.08
+NB-FUR-006,Furnishings,Tables,2024-12-17,13321.16,24939.88
+NB-FUR-007,Furnishings,Shelving,2024-09-04,4084.26,7776.19
+NB-FUR-008,Furnishings,Bedding,2024-07-14,6600.07,10789.53
+NB-FUR-009,Furnishings,Rugs,2024-04-19,3721.4,6827.07
+NB-FUR-010,Furnishings,Shelving,2025-02-11,11448.96,24771.63
+NB-FUR-011,Furnishings,Shelving,2023-12-19,17770.93,40593.32
+NB-FUR-012,Furnishings,Shelving,2024-12-13,9527.86,21602.41
+NB-FUR-013,Furnishings,Tables,2024-03-22,12887.72,27856.24
+NB-FUR-014,Furnishings,Bedding,2024-11-01,12342.16,25021.41
+NB-FUR-015,Furnishings,Rugs,2024-03-19,6684.19,15643.1
+NB-FUR-016,Furnishings,Shelving,2024-11-09,,34564.97
+NB-FUR-017,Furnishings,Shelving,2023-11-25,8718.05,14410.51
+NB-FUR-018,Furnishings,Shelving,2023-12-10,5795.71,11587.86
+NB-FUR-019,Furnishings,Rugs,2024-02-19,4714.51,8069.85
+NB-FUR-020,Furnishings,Shelving,2024-05-12,14078.71,27351.37
+NB-FUR-021,Furnishings,Tables,2024-06-27,17958.55,30721.07
+NB-FUR-022,Furnishings,Seating,2024-12-15,15847.1,27293.03
+NB-FUR-023,Furnishings,Rugs,2024-05-05,11744.34,22406.01
+NB-FUR-024,  Furnishings ,Bedding,2023-11-10,6396.92,13066.23
+NB-FUR-025,Furnishings,Seating,2024-10-21,13066.51,26519.48
+NB-FUR-026,  Furnishings ,Shelving,2024-07-17,4229.06,8237.41
+NB-FUR-027,Furnishings,Shelving,2024-06-20,17564.27,38809.48
+NB-FUR-028,Furnishings,Shelving,2024-11-25,15545.87,31187.04
+NB-FUR-029,Furnishings,Tables,2024-06-08,10860.37,24141.53
+NB-FUR-030,Furnishings,Bedding,2023-11-17,7524.42,12156.31
+NB-FUR-031,Furnishings,Shelving,2024-05-20,,11135.36
+NB-FUR-032,Furnishings,Seating,2023-10-23,13844.57,31189.3
+NB-FUR-033,Furnishings,Tables,2024-05-29,4490.07,8891.35
+NB-FUR-034,Furnishings,Bedding,2024-11-18,16022.71,31060.19
+NB-FUR-035,Furnishings,Tables,2024-03-28,13550.71,26006.44
+NB-FUR-036,Furnishings,Rugs,2024-10-31,16444.02,32249.83
+NB-FUR-037,Furnishings,Shelving,2024-05-09,2826.03,5773.97
+NB-FUR-038,Furnishings,Seating,2025-01-31,13471.53,22188.94
+NB-FUR-039,Furnishings,Shelving,2024-03-29,3598.29,6442.39
+NB-FUR-040,Furnishings,Bedding,2024-05-18,4550.83,10687.22
+NB-FUR-041,Furnishings,Tables,2024-11-29,14661.6,32929.92
+NB-FUR-042,Furnishings,Rugs,2023-12-20,7991.61,15414.87
+NB-FUR-043,Furnishings,Seating,2024-01-22,3439.5,7506.95
+NB-FUR-044,Furnishings,Tables,2024-12-25,5469.65,11098.08
+NB-FUR-045,Furnishings,Shelving,2025-01-27,9670.74,22238.73
+NB-FUR-046,Furnishings,Bedding,2024-06-03,4017.59,8524.18
+NB-FUR-047,Furnishings,Seating,2024-12-11,16858.69,38420.22
+NB-FUR-048,Furnishings,Rugs,2025-02-04,5813.08,11165.95
+NB-FUR-049,Furnishings,Seating,2024-01-30,17772.29,32206.28
+NB-FUR-050,Furnishings,Shelving,2024-01-30,9056.62,21426.64
+NB-DÉC-051,Décor,Mirrors,2023-10-28,879.87,1844.83
+NB-DÉC-052,Décor,Candles,2025-02-09,588.97,1244.85
+NB-DÉC-053,Décor,Candles,2025-02-05,3250.1,7576.39
+NB-DÉC-054,Décor,Lighting,2025-01-31,3039.16,5678.74
+NB-DÉC-055,Décor,Wall Art,2024-05-19,1651.7,4528.29
+NB-DÉC-056,Décor,Candles,2024-04-04,523.2,984.65
+NB-DÉC-057,Décor,Candles,2024-03-29,1380.75,2845.4
+NB-DÉC-058,Décor,Wall Art,2024-04-10,1223.4,2362.24
+NB-DÉC-059,Décor,Vases & Planters,2025-03-02,3279.96,8973.1
+NB-DÉC-060,Décor,Candles,2024-11-17,3487.9,6533.75
+NB-DÉC-061,Décor,Wall Art,2023-12-12,3293.1,8828.35
+NB-DÉC-062,Décor,Vases & Planters,2024-03-11,889.02,2341.45
+NB-DÉC-063,Décor,Candles,2024-10-04,424.25,1110.31
+NB-DÉC-064,Décor,Lighting,2025-01-06,3310.68,6403.82
+NB-DÉC-065,Décor,Candles,2024-11-19,881.89,1835.88
+NB-DÉC-066,Décor,Wall Art,2024-06-21,2531.24,6715.16
+NB-DÉC-067,DÉCOR,Lighting,2024-10-16,686.13,1525.66
+NB-DÉC-068,Décor,Wall Art,2024-02-21,2375.05,4897.25
+NB-DÉC-069,Décor,Mirrors,2023-11-09,2138.81,4089.13
+NB-DÉC-070,Décor,Wall Art,2024-05-12,2091.33,5509.81
+NB-DÉC-071,Décor,Mirrors,2023-12-02,795.08,1676.23
+NB-DÉC-072,Décor,Lighting,2024-10-30,3186.67,6405.45
+NB-DÉC-073,Décor,Vases & Planters,2024-08-10,2818.36,7564.86
+NB-DÉC-074,Décor,Wall Art,2024-12-13,3269.87,6659.87
+NB-DÉC-075,Décor,Wall Art,2024-02-23,3132.39,5715.94
+NB-DÉC-076,Décor,Mirrors,2024-01-16,2886.93,7690.97
+NB-DÉC-077,DÉCOR,Wall Art,2023-12-16,2840.86,5420.63
+NB-DÉC-078,Décor,Wall Art,2024-09-08,1018.68,2769.23
+NB-DÉC-079,Décor,Wall Art,2024-08-14,1091.06,2684.04
+NB-DÉC-080,Décor,Lighting,2024-04-12,3397.36,7063.54
+NB-DÉC-081,Décor,Candles,2023-12-13,1426.56,2607.18
+NB-DÉC-082,Décor,Wall Art,2025-02-15,2199.83,6123.34
+NB-DÉC-083,Décor,Mirrors,2024-07-26,1471.63,3806.27
+NB-DÉC-084,Décor,Candles,2024-11-29,758.5,2047.57
+NB-DÉC-085,Décor,Mirrors,2024-06-04,405.24,1104.51
+NB-DÉC-086,Décor,Wall Art,2024-03-31,1529.09,2859.36
+NB-DÉC-087,Décor,Candles,2024-03-03,1373.14,3636.1
+NB-DÉC-088,Décor,Candles,2024-08-12,1358.78,3000.72
+NB-DÉC-089,Décor,Candles,2023-11-11,794.59,1764.34
+NB-DÉC-090,Décor,Wall Art,2024-05-30,2308.1,4849.2
+NB-DÉC-091,Décor,Vases & Planters,2024-05-14,1289.43,2875.28
+NB-DÉC-092,Décor,Vases & Planters,2024-11-17,1841.46,4128.85
+NB-DÉC-093,Décor,Wall Art,2024-04-01,2442.44,5089.52
+NB-DÉC-094,Décor,Vases & Planters,2024-11-06,689.5,1897.5
+NB-DÉC-095,Décor,Wall Art,2025-02-11,2900.34,5647.99
+NB-DÉC-096,Décor,Mirrors,2024-07-16,,5894.55
+NB-DÉC-097,Décor,Candles,2024-06-26,1002.75,2503.22
+NB-DÉC-098,Décor,Wall Art,2024-02-16,2433.78,4394.3
+NB-DÉC-099,Décor,Lighting,2024-01-20,2813.1,5679.2
+NB-DÉC-100,Décor,Candles,2023-11-23,1840.1,4337.86
+NB-SMA-101,Small Appliances,Toasters,2024-06-08,3160.06,5767.9
+NB-SMA-102,Small Appliances,Electric Kettles,2024-07-23,5036.44,10217.3
+NB-SMA-103,Small Appliances,Electric Kettles,2024-07-21,6152.76,13134.9
+NB-SMA-104,Small Appliances,Toasters,2024-01-01,6390.71,12949.14
+NB-SMA-105,Small Appliances,Electric Kettles,2024-07-24,6742.89,11243.58
+NB-SMA-106,Small Appliances,Blenders,2023-12-05,4191.83,7273.22
+NB-SMA-107,Small Appliances,Air Fryers,2024-12-18,3338.47,5902.83
+NB-SMA-108,Small Appliances,Coffee Makers,2024-07-11,6031.65,10444.51
+NB-SMA-109,Small Appliances,Air Fryers,2024-02-06,10295.49,18250.13
+NB-SMA-110,Small Appliances,Coffee Makers,2024-08-24,10538.67,21455.85
+NB-SMA-111,Small Appliances,Blenders,2023-12-06,4845.85,8591.65
+NB-SMA-112,Small Appliances,Toasters,2024-01-22,7289.85,14683.54
+NB-SMA-113,SMALL APPLIANCES,Air Fryers,2024-07-01,6779.94,11465.25
+NB-SMA-114,Small Appliances,Toasters,2023-11-22,9186.65,19184.98
+NB-SMA-115,Small Appliances,Electric Kettles,2024-05-07,7248.06,15473.52
+NB-SMA-116,Small Appliances,Coffee Makers,2023-12-19,2656.26,4781.34
+NB-SMA-117,Small Appliances,Coffee Makers,2024-07-17,4453.59,7700.91
+NB-SMA-118,Small Appliances,Toasters,2024-08-03,4638.22,10045.66
+NB-SMA-119,Small Appliances,Coffee Makers,2025-02-08,6597.13,13354.68
+NB-SMA-120,Small Appliances,Blenders,2023-11-02,4087.07,6326.92
+NB-SMA-121,Small Appliances,Coffee Makers,2025-02-24,11486.04,18831.97
+NB-SMA-122,Small Appliances,Air Fryers,2024-05-22,3087.45,6078.02
+NB-SMA-123,Small Appliances,Toasters,2024-12-11,8934.54,18198.13
+NB-SMA-124,Small Appliances,Coffee Makers,2024-09-28,9733.48,15716.03
+NB-SMA-125,Small Appliances,Coffee Makers,2023-11-28,11274.65,21456.31
+NB-SMA-126,Small Appliances,Toasters,2024-05-07,11403.0,18687.59
+NB-SMA-127,Small Appliances,Air Fryers,2023-12-27,2839.39,5794.45
+NB-SMA-128,Small Appliances,Coffee Makers,2025-02-13,9921.52,18812.72
+NB-SMA-129,Small Appliances,Toasters,2024-04-09,8547.52,13233.87
+NB-SMA-130,Small Appliances,Toasters,2023-11-01,10187.78,16034.31
+NB-SMA-131,Small Appliances,Toasters,2024-02-25,9014.55,16269.83
+NB-SMA-132,Small Appliances,Blenders,2024-02-04,8082.31,17326.31
+NB-SMA-133,Small Appliances,Toasters,2024-09-22,10222.49,19573.33
+NB-SMA-134,Small Appliances,Coffee Makers,2024-02-16,4645.07,8433.41
+NB-SMA-135,Small Appliances,Electric Kettles,2024-06-26,8615.52,14952.04
+NB-SMA-136,Small Appliances,Air Fryers,2024-10-25,6773.01,11841.78
+NB-SMA-137,Small Appliances,Electric Kettles,2025-03-01,8952.07,15159.33
+NB-SMA-138,Small Appliances,Air Fryers,2024-06-29,2673.25,5357.33
+NB-SMA-139,Small Appliances,Air Fryers,2024-06-28,8844.22,17265.09
+NB-SMA-140,Small Appliances,Coffee Makers,2024-03-17,2749.14,4550.15
+NB-SMA-141,Small Appliances,Electric Kettles,2024-09-11,5564.01,10501.69
+NB-SMA-142,Small Appliances,Electric Kettles,2024-10-19,5174.07,10306.74
+NB-SMA-143,Small Appliances,Air Fryers,2025-01-04,3030.69,4954.6
+NB-SMA-144,Small Appliances,Air Fryers,2024-10-16,3753.72,7571.34
+NB-SMA-145,Small Appliances,Electric Kettles,2024-01-05,7887.27,17244.39
+NB-SMA-146,Small Appliances,Air Fryers,2024-03-09,5480.99,9381.19
+NB-SMA-147,Small Appliances,Blenders,2024-10-08,2264.26,3482.81
+NB-SMA-148,Small Appliances,Air Fryers,2025-01-13,8306.27,16836.43
+NB-SMA-149,Small Appliances,Electric Kettles,2024-09-13,4700.26,8625.45
+NB-SMA-150,Small Appliances,Coffee Makers,2025-01-07,4375.28,9202.12
+NB-KIT-151,Kitchenware,Storage Containers,2024-03-20,2365.34,5112.96
+NB-KIT-152,Kitchenware,Cutlery,2025-01-22,3706.8,9116.14
+NB-KIT-153,Kitchenware,Cookware Sets,2024-05-05,2643.91,5374.91
+NB-KIT-154,Kitchenware,Cutlery,2023-11-27,3557.91,7131.13
+NB-KIT-155,Kitchenware,Baking Tools,2024-04-23,4458.13,8667.96
+NB-KIT-156,Kitchenware,Cookware Sets,2024-11-18,4279.88,7987.24
+NB-KIT-157,Kitchenware,Cookware Sets,2025-01-27,959.64,1764.83
+NB-KIT-158,KITCHENWARE,Storage Containers,2024-10-08,2192.12,4767.97
+NB-KIT-159,Kitchenware,Dinnerware,2024-03-20,3252.55,6710.74
+NB-KIT-160,Kitchenware,Dinnerware,2024-04-02,3608.88,7939.7
+NB-KIT-161,Kitchenware,Cutlery,2024-04-09,2085.58,4454.07
+NB-KIT-162,Kitchenware,Dinnerware,2024-12-12,3771.85,6627.62
+NB-KIT-163,Kitchenware,Baking Tools,2024-10-10,3445.62,7426.57
+NB-KIT-164,Kitchenware,Storage Containers,2023-11-10,3192.45,7214.26
+NB-KIT-165,Kitchenware,Baking Tools,2025-02-14,2373.94,4188.47
+NB-KIT-166,Kitchenware,Dinnerware,2024-11-09,2835.6,4879.19
+NB-KIT-167,Kitchenware,Baking Tools,2024-02-09,2765.92,4747.97
+NB-KIT-168,Kitchenware,Dinnerware,2024-12-07,2720.24,6285.08
+NB-KIT-169,Kitchenware,Storage Containers,2024-05-11,4147.51,7652.95
+NB-KIT-170,Kitchenware,Storage Containers,2024-08-09,4370.03,9072.22
+NB-KIT-171,Kitchenware,Cookware Sets,2024-03-16,3902.48,7663.86
+NB-KIT-172,Kitchenware,Storage Containers,2024-07-17,3716.98,7954.62
+NB-KIT-173,Kitchenware,Dinnerware,2024-08-12,1657.75,4104.83
+NB-KIT-174,Kitchenware,Cookware Sets,2024-08-07,3062.17,6534.9
+NB-KIT-175,Kitchenware,Baking Tools,2024-04-20,1819.47,4194.16
+NB-KIT-176,Kitchenware,Cookware Sets,2023-11-18,1154.94,2470.85
+NB-KIT-177,Kitchenware,Storage Containers,2024-04-29,809.99,2007.57
+NB-KIT-178,Kitchenware,Cutlery,2024-08-10,1605.15,2746.31
+NB-KIT-179,Kitchenware,Cookware Sets,2024-01-05,2238.08,4015.05
+NB-KIT-180,Kitchenware,Dinnerware,2024-01-04,2437.26,4676.47
+NB-KIT-181,Kitchenware,Storage Containers,2024-08-22,1323.67,2833.99
+NB-KIT-182,Kitchenware,Baking Tools,2023-12-20,2434.61,5851.49
+NB-KIT-183,Kitchenware,Storage Containers,2024-10-21,1727.48,4025.33
+NB-KIT-184,Kitchenware,Dinnerware,2024-05-14,3349.41,7938.04
+NB-KIT-185,Kitchenware,Storage Containers,2024-07-02,3934.09,8093.36
+NB-KIT-186,Kitchenware,Baking Tools,2023-11-15,3504.07,7014.34
+NB-KIT-187,Kitchenware,Cutlery,2024-08-22,4419.25,8357.0
+NB-KIT-188,Kitchenware,Storage Containers,2024-03-10,483.32,1109.59
+NB-KIT-189,Kitchenware,Storage Containers,2024-01-11,1921.53,4286.84
+NB-KIT-190,Kitchenware,Cutlery,2024-06-22,2380.38,4117.14
+NB-KIT-191,Kitchenware,Dinnerware,2024-07-24,3952.74,9484.02
+NB-KIT-192,Kitchenware,Storage Containers,2023-12-17,364.46,661.61
+NB-KIT-193,Kitchenware,Cutlery,2024-10-22,614.28,1428.34
+NB-KIT-194,Kitchenware,Storage Containers,2023-12-26,3029.31,7214.04
+NB-KIT-195,Kitchenware,Baking Tools,2024-03-04,1896.04,3703.59
+NB-KIT-196,Kitchenware,Storage Containers,2025-01-30,3964.01,6852.66
+NB-KIT-197,Kitchenware,Dinnerware,2024-07-27,4489.19,10313.52
+NB-KIT-198,KITCHENWARE,Cookware Sets,2023-11-30,2163.45,4879.01
+NB-KIT-199,Kitchenware,Cookware Sets,2024-12-22,1532.14,3064.09
+NB-KIT-200,Kitchenware,Storage Containers,2024-12-09,2676.9,6247.93

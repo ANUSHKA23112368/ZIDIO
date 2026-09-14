@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NorthBay Living — Project FORESIGHT Executive Readout</title>
+    <style>
+        :root {
+            --bg: #0F172A;
+            --card-bg: #1E293B;
+            --text-main: #F8FAFC;
+            --text-sub: #94A3B8;
+            --accent-blue: #38BDF8;
+            --accent-green: #34D399;
+            --accent-red: #F87171;
+            --accent-amber: #FBBF24;
+            --border: #334155;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+        body { background-color: var(--bg); color: var(--text-main); line-height: 1.6; padding: 2rem; }
+        .container { max-width: 1100px; margin: 0 auto; }
+        .slide {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 3rem;
+            margin-bottom: 2.5rem;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+        }
+        .slide-header { border-bottom: 1px solid var(--border); padding-bottom: 1.2rem; margin-bottom: 2rem; display: flex; justify-content: space-between; align-items: baseline; }
+        .slide-title { font-size: 2rem; font-weight: 700; color: var(--text-main); }
+        .slide-tag { color: var(--accent-blue); font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; font-size: 0.9rem; }
+        .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1.5rem; margin: 2rem 0; }
+        .kpi-card { background: rgba(15, 23, 42, 0.6); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; text-align: center; }
+        .kpi-title { font-size: 0.85rem; color: var(--text-sub); text-transform: uppercase; font-weight: 600; }
+        .kpi-value { font-size: 2.2rem; font-weight: 800; margin-top: 0.5rem; }
+        .grid-2col { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-top: 1.5rem; }
+        table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+        th, td { padding: 12px 16px; text-align: left; border-bottom: 1px solid var(--border); }
+        th { background: rgba(15, 23, 42, 0.5); color: var(--accent-blue); font-weight: 600; }
+        .badge { display: inline-block; padding: 4px 10px; border-radius: 6px; font-weight: 600; font-size: 0.85rem; }
+        .badge-red { background: rgba(248, 113, 113, 0.2); color: var(--accent-red); }
+        .badge-green { background: rgba(52, 211, 153, 0.2); color: var(--accent-green); }
+        .badge-amber { background: rgba(251, 191, 36, 0.2); color: var(--accent-amber); }
+        ul { margin-left: 1.5rem; margin-top: 1rem; }
+        li { margin-bottom: 0.75rem; color: var(--text-sub); }
+        li strong { color: var(--text-main); }
+        .quadrant-box { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: 1.5rem; }
+        .quad-cell { border-radius: 10px; padding: 1.5rem; border: 1px solid var(--border); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        
+        <!-- Slide 1: Cover & Rupee Impact -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">Project FORESIGHT: Executive Readout</div>
+                <div class="slide-tag">Slide 1 of 5 • Executive Overview</div>
+            </div>
+            <p style="font-size: 1.2rem; color: var(--text-sub);">Turning NorthBay Living's Sales & Inventory Data into Predictable Demand and Actionable Stocking Decisions.</p>
+            
+            <div class="kpi-grid">
+                <div class="kpi-card">
+                    <div class="kpi-title">Sales at Risk Protected</div>
+                    <div class="kpi-value" style="color: var(--accent-red);">₹17.15 L</div>
+                    <div style="font-size:0.8rem; color:var(--text-sub); margin-top:4px;">Stockout early warning</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-title">Working Capital Locked</div>
+                    <div class="kpi-value" style="color: var(--accent-amber);">₹37.49 Cr</div>
+                    <div style="font-size:0.8rem; color:var(--text-sub); margin-top:4px;">Clearance candidate pool</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-title">Forecast WAPE Accuracy</div>
+                    <div class="kpi-value" style="color: var(--accent-green);">15.96%</div>
+                    <div style="font-size:0.8rem; color:var(--text-sub); margin-top:4px;">Beats baseline (+0.75%)</div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-title">Catalog Coverage</div>
+                    <div class="kpi-value" style="color: var(--accent-blue);">200 SKUs</div>
+                    <div style="font-size:0.8rem; color:var(--text-sub); margin-top:4px;">Full 8-week horizon</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 2: The Core Problem -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">The Operational Challenge: Dual Margin Bleed</div>
+                <div class="slide-tag">Slide 2 of 5 • Diagnosis</div>
+            </div>
+            <div class="grid-2col">
+                <div style="background: rgba(248,113,113,0.08); padding: 1.5rem; border-radius: 12px; border-left: 4px solid var(--accent-red);">
+                    <h3 style="color: var(--accent-red); margin-bottom: 0.8rem;">🚨 Stockouts on Best-Sellers</h3>
+                    <p style="color: var(--text-sub);">Top furnishings and appliances run out before replenishment arrives from suppliers. Lead times (21–42 days) were ignored, losing high-margin customer orders permanently.</p>
+                </div>
+                <div style="background: rgba(251,191,36,0.08); padding: 1.5rem; border-radius: 12px; border-left: 4px solid var(--accent-amber);">
+                    <h3 style="color: var(--accent-amber); margin-bottom: 0.8rem;">📦 Cash Locked in Slow Movers</h3>
+                    <p style="color: var(--text-sub);">Over 170 SKUs carry more than 14 weeks of supply, with several holding nearly a year of stock. This ties up ₹37.5 Crores in non-liquid working capital in the central warehouse.</p>
+                </div>
+            </div>
+            <p style="margin-top: 2rem; color: var(--text-main); font-weight: 500;">
+                FORESIGHT replaces manual spreadsheets with automated forecasting and dynamic reorder thresholds tied to actual supplier lead times.
+            </p>
+        </div>
+
+        <!-- Slide 3: Model Accuracy & Backtest -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">Model Rigor: Honest Rolling-Origin Backtesting</div>
+                <div class="slide-tag">Slide 3 of 5 • Forecasting Engine</div>
+            </div>
+            <p style="color: var(--text-sub);">In adherence to engagement principles, the forecasting engine was rigorously tested against a <strong>Seasonal-Naive baseline</strong> without any future data leakage.</p>
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th>Metric</th>
+                        <th>Seasonal-Naive Baseline</th>
+                        <th>FORESIGHT LightGBM Model</th>
+                        <th>Performance Impact</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>WAPE (Weighted Absolute Error)</strong></td>
+                        <td>16.71%</td>
+                        <td style="color: var(--accent-green); font-weight: 700;">15.96%</td>
+                        <td><span class="badge badge-green">Beats Baseline (+0.75%)</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>MAPE (Mean Absolute Error)</strong></td>
+                        <td>28.40%</td>
+                        <td style="color: var(--accent-green); font-weight: 700;">21.15%</td>
+                        <td><span class="badge badge-green">7.25% Lower Error</span></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Forecast Bias (Over/Under)</strong></td>
+                        <td>+3.10% (Over-forecast)</td>
+                        <td style="color: var(--accent-blue); font-weight: 700;">-0.40% (Near Neutral)</td>
+                        <td><span class="badge badge-green">Balanced Ordering</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Slide 4: 2x2 Decisioning Matrix -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">The 2x2 Operational Decisioning Matrix</div>
+                <div class="slide-tag">Slide 4 of 5 • Decisioning Layer</div>
+            </div>
+            <div class="quadrant-box">
+                <div class="quad-cell" style="background: rgba(239,68,68,0.1); border-color: var(--accent-red);">
+                    <h3 style="color: var(--accent-red);">🚨 REORDER NOW (1 SKU)</h3>
+                    <p style="font-size:0.9rem; color:var(--text-sub); margin-top:0.4rem;">High Stockout, Low Overstock</p>
+                    <p style="margin-top:0.8rem; font-size:0.95rem;"><strong>Action:</strong> Immediately raise replenishment PO for NB-FUR-001 (56 units) to protect ₹17.15 Lakhs in sales.</p>
+                </div>
+                <div class="quad-cell" style="background: rgba(139,92,246,0.1); border-color: #8B5CF6;">
+                    <h3 style="color: #A78BFA;">⚠️ WATCH / VOLATILE (0 SKUs)</h3>
+                    <p style="font-size:0.9rem; color:var(--text-sub); margin-top:0.4rem;">High on Both Axes</p>
+                    <p style="margin-top:0.8rem; font-size:0.95rem;"><strong>Action:</strong> Review demand variance and supplier lead times manually before committing capital.</p>
+                </div>
+                <div class="quad-cell" style="background: rgba(16,185,129,0.1); border-color: var(--accent-green);">
+                    <h3 style="color: var(--accent-green);">✅ HEALTHY (27 SKUs)</h3>
+                    <p style="font-size:0.9rem; color:var(--text-sub); margin-top:0.4rem;">Low on Both Axes</p>
+                    <p style="margin-top:0.8rem; font-size:0.95rem;"><strong>Action:</strong> Stock levels comfortably cover lead-time demand; maintain standard schedule.</p>
+                </div>
+                <div class="quad-cell" style="background: rgba(245,158,11,0.1); border-color: var(--accent-amber);">
+                    <h3 style="color: var(--accent-amber);">📦 MARKDOWN / CLEAR (172 SKUs)</h3>
+                    <p style="font-size:0.9rem; color:var(--text-sub); margin-top:0.4rem;">High Overstock, Low Stockout</p>
+                    <p style="margin-top:0.8rem; font-size:0.95rem;"><strong>Action:</strong> Launch tiered promotional bundles (15–25% off) to release up to ₹37.5 Crores in locked capital.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Slide 5: Next Steps -->
+        <div class="slide">
+            <div class="slide-header">
+                <div class="slide-title">Immediate Operational Roadmap</div>
+                <div class="slide-tag">Slide 5 of 5 • Handoff</div>
+            </div>
+            <ul>
+                <li><strong>Week 1:</strong> Issue replenishment purchase orders for hero items flagged in the "Reorder Now" tab of the dashboard.</li>
+                <li><strong>Week 2:</strong> Merchandise lead structures a clearance promotional event for the top 20 overstocked décor SKUs.</li>
+                <li><strong>Ongoing:</strong> Operations team integrates the deployed FORESIGHT Planning Dashboard into Monday inventory triage meetings.</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
