@@ -32,9 +32,12 @@ def main():
 
     # 2. Ingest, Clean & Aggregate
     logging.info("[Step 2/4] Ingesting and cleaning raw extracts (Deliverable D1)...")
-    from src.pipeline import NorthBayDataPipeline
-    pipeline = NorthBayDataPipeline()
-    pipeline.run_pipeline()
+    # from src.pipeline import NorthBayDataPipeline
+    # pipeline = NorthBayDataPipeline()
+    # pipeline.run_pipeline()
+    from src.pipeline import run_pipeline as custom_data_pipeline
+    custom_data_pipeline()  # <--- Ensure this is indented!
+
 
     # 3. Model Training & Rolling-Origin Backtesting
     logging.info("[Step 3/4] Running rolling-origin CV backtest & training ML forecaster (Deliverable D3)...")
